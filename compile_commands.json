@@ -1,0 +1,38 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Werror",
+      "-Wpedantic",
+      "-g",
+      "-Iinclude",
+      "-O0",
+      "-c",
+      "-o",
+      "src/glad.o",
+      "src/glad.cpp"
+    ],
+    "directory": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess",
+    "file": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess/src/glad.cpp",
+    "output": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess/src/glad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Werror",
+      "-Wpedantic",
+      "-g",
+      "-Iinclude",
+      "-O0",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess",
+    "file": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess/src/main.cpp",
+    "output": "/home/Gamer247/programming/dev/cpp/gui/glfw/chess/src/main.o"
+  }
+]
