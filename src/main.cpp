@@ -112,6 +112,7 @@ int main()
     {
         std::cout << "Failed to load texture" << std::endl;
     }
+    stbi_image_free(data);
     // texture 2
     // ---------
     glGenTextures(1, &texture2);
